@@ -1,0 +1,9 @@
+.env
+venv/
+# Tool-generated files
+*.data.json
+*.meta.json
+
+.mypy_cache/
+.vscode/
+__pycache__/
